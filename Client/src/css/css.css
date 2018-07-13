@@ -1,0 +1,13 @@
+#winClose:hover{
+    -fx-background-color: red;
+}
+#winClose{
+    -fx-background-color: none;
+}
+
+#button{
+    -fx-background-color: none;
+}
+#button:hover{
+    -fx-background-color: dodgerblue;
+}
